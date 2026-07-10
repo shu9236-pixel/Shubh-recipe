@@ -9,7 +9,7 @@
 
 <h1>🍕 बाजार जैसा पिज्जा घर पर कैसे बनाएं</h1>
 
-<p><b>लेखक:</b> Gunjan</p>
+<p><b>लेखक:</b> Shubham</p>
 
 <h2>परिचय</h2>
 <p>
@@ -18,13 +18,13 @@
 
 <h2>पिज्जा की तस्वीरें</h2>
 
-<img src="pizza 1.jpg" alt="Pizza1" width="300">
+<img src="pizza1.jpg" alt="Pizza1" width="300">
 <br><br>
 
-<img src="pizza 2.jpg" alt="Pizza2" width="300">
+<img src="pizza2.jpg" alt="Pizza2" width="300">
 <br><br>
 
-<img src="pizza 3.jpg" alt="Pizza3" width="300">
+<img src="pizza3.jpg" alt="Pizza3" width="300">
 
 <h2>सामग्री</h2>
 <ul>
