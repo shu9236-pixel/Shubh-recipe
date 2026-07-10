@@ -1,2 +1,1 @@
-# Shubh-recipe
-welcome to shubham mishra 
+# Shubham mishra 
